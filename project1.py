@@ -1,0 +1,5 @@
+print("Hello, my name is Aarav and I am going to tell you my daily routine")
+print("In the morning, I wake up, brush my teeth and eat my breakfast and head to catch the bus to school")
+print("After I come back from school, I take my bath and eat my lunch at home")
+print("After i eat my lunch, i then do my homework or go to soccer practice")
+print("I then finally eat dinner and then read for a bit and then sleep and repeat my routine")
