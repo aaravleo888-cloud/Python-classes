@@ -3,3 +3,5 @@ print("In the morning, I wake up, brush my teeth and eat my breakfast and head t
 print("After I come back from school, I take my bath and eat my lunch at home")
 print("After i eat my lunch, i then do my homework or go to soccer practice")
 print("I then finally eat dinner and then read for a bit and then sleep and repeat my routine")
+# calculate study time
+print("This my total hours of study in a week " ,1.5*7)
